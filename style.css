@@ -1,0 +1,13 @@
+body{
+    font-family:sans-serif;
+    background-color:aliceblue
+    margin= auto;
+    border: 256px  Outset;
+    height: 144px;
+    overflow: auto;
+    border: 4px dotted;
+    border-color: rgb(0, 136, 255);
+    display:flow-root;
+    background-color:aliceblue;
+
+}
